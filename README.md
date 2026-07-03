@@ -16,7 +16,7 @@ The system controls two brushless motors (lift and thrust) through ESCs, integra
 - HC‑SR04 Ultrasonic Sensor
 - RC Receiver, 6C, 2.4GHz
 - RC Controller, 6C, 2.4GHz
-- 3S LiPo Battery 11,1V
+- 3S LiPo Battery 11.1V
 - LED indicator
 - Power Switch
 - Resistors
