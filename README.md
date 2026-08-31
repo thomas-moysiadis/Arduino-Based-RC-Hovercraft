@@ -1,4 +1,4 @@
-# DIY Hovercraft Control Code
+# Arduino-Based RC Hovercraft Control Code
 
 This repository contains the Arduino code used in my DIY hovercraft project.
 The system controls two brushless motors (lift and thrust) through ESCs, integrates an ultrasonic sensor for obstacle detection, and monitors battery voltage for safe operation.
